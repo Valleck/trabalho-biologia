@@ -1,0 +1,42 @@
+/*
+ *
+ *  Trabalho de biologia - Pesquisa
+ * 
+ *    Data de entrega: 02/04
+ * 
+ *    Assunto: 
+ *      
+ *      Doenças causadas por:
+ *
+ *        Vírus, Fungos, Bacterias, Protozoários.
+ *
+ * 
+ *      Tópicos:
+ *        
+ *        10 Tipos de doenças de cada grupo.
+ * 
+ *          Agente Causador
+ *          Agente Transmissor
+ *          Sintomas
+ *          Tratamento
+ *          Formas de contágio
+ *          Formas de prevenção
+ * 
+ * 
+ *      Capa
+ * 
+ *      Introdução
+ *      Desenvolvimento
+ *      Conclusão
+ *      Referências
+ * 
+ * 
+ * 
+ *     REQUIREMENTS:
+ *
+ *     font: Times, 12pt
+ *     Spacing: 1.5cm
+ *     Margin: 3 2 3 2
+ *     Justify
+ *
+ */
